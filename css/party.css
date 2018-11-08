@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+h2{
+	font-family:bad-script ; color:#1A569E; font-style:normal ; font-size:30px;
+     }
+  
+td.st{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif, alex-brush ; color:#A84648;     font-size:20px; font-style:italic;
+     }
+p.pp{
+		font-family:bad-script ; color:#1A569E; font-style:normal ; font-size:30px;
+	 }
+p.cp{	
+		font-family:bad-script ; color:#1A569E; font-style:normal ; font-size:30px;
+	 }

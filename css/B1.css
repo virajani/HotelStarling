@@ -1,0 +1,11 @@
+div.butn{
+background-image:url(../pics/button1.png);
+width:243px;
+height:100px;
+
+}
+div.butn:active{
+background-image:url(../pics/button2.png);
+width:235px;
+height:100px;
+}
